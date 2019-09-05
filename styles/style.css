@@ -37,6 +37,11 @@ strong {
   color: #151515;
 }
 
+b {
+  font-weight: 1000;
+  color: #000066;
+}
+
 em {
   font-weight: 100;
 }
